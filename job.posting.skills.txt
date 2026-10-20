@@ -1,0 +1,11 @@
+Data Analyst:
+Required; Masters Degree, 1+ years of experience, create dashboards and communicate results, develop machine learning/statistics based algorithms.
+Noted; teaching teams and management, building models, design experiments, present findings.
+
+Data Science Analyst:
+Required; 2+ years of experience, building/designing models, develop algorithms, proficiency in Python and SQL, experience in statistics.
+Noted; engage in long-term projects, work alongside professionals.
+
+Skills That Appear in Both: develop machine learning algorithms, building models, solid problem solving skills, proficiency in statistics.
+
+What first stood out to me is how different the two jobs where, with having different requirements for such similar sounding job titles. I was also surprised by how much experience was required for both jobs as they both seemed at first like entry level positions, though it does make since as neither are internships. Though in the ned both jobs do have similar skills required, and most skills would tend to work hand in hand in the required fields.
